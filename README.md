@@ -1,5 +1,4 @@
 # ESP8266-SmartDoorLock-Firebase
-Tentu, berikut ini adalah contoh isi untuk GitHub repository dengan judul "ESP8266-SmartDoorLock-Firebase" yang menggunakan Google Firebase dan MIT Inventor untuk mobile app. 
 
 **Judul: ESP8266-SmartDoorLock-Firebase**
 
@@ -35,7 +34,6 @@ Kami mengundang kontribusi dari komunitas. Silakan berkontribusi dengan memberik
 Proyek ini dilisensikan di bawah [MIT License](LICENSE).
 
 ## Pengembang
-- [Nama Pengembang 1](https://github.com/pengembang1)
-- [Nama Pengembang 2](https://github.com/pengembang2)
+- [Nama Pengembang 1](https://github.com/11neuty)
+- [Nama Pengembang 2](https://github.com/Arkan03)
 
-Jangan lupa untuk menambahkan informasi kontak dan tautan ke profil pengembang untuk memberikan pengguna kemungkinan untuk berhubungan jika mereka memiliki pertanyaan atau masukan. Semoga proyek ini bermanfaat bagi komunitas dan memudahkan implementasi sistem pintu pintar menggunakan ESP8266, Firebase, dan MIT Inventor.
