@@ -5,10 +5,10 @@
 #include <SPI.h>
 #include <MFRC522.h>
 
-#define ssid "Queue"  //WiFi SSID
+#define ssid "ADASDAW"  //WiFi SSID
 #define password "12345678"  //WiFi Password
-#define FIREBASE_HOST "smartdoorlock-18857-default-rtdb.firebaseio.com"       //Firebase Project URL Remove "https:" , "\" and "/"
-#define FIREBASE_AUTH "e18cb3a7ea94cba419bd7fb2db60fc9216cd263d"      //Firebase Auth Token
+#define FIREBASE_HOST ""       //Firebase Project URL Remove "https:" , "\" and "/"
+#define FIREBASE_AUTH ""      //Firebase Auth Token
 
 FirebaseData firebaseData;
 
