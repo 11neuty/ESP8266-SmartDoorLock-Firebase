@@ -13,6 +13,12 @@
 Proyek ini adalah implementasi sistem pintu pintar menggunakan mikrokontroler ESP8266, Firebase sebagai database dan server, serta MIT Inventor untuk aplikasi seluler. Sistem ini memungkinkan pengguna untuk membuka atau menutup pintu menggunakan aplikasi seluler yang terhubung dengan perangkat pintar.
 
 
+
+
+https://github.com/11neuty/ESP8266-SmartDoorLock-Firebase/assets/49444532/17a88f37-d817-4db8-9ae4-a63c2b3380e5
+
+
+
 ## Fitur
 1. **RFID Authentication:** Sistem dapat membaca RFID card dan memberikan keterangan apakah kartu yang dibaca benar atau salah.
 2. **Remote Door Control:** Pengguna dapat membuka atau menutup pintu dari jarak jauh menggunakan aplikasi seluler.
