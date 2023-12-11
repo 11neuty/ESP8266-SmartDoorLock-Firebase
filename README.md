@@ -15,7 +15,10 @@ Proyek ini adalah implementasi sistem pintu pintar menggunakan mikrokontroler ES
 
 
 
-https://github.com/11neuty/ESP8266-SmartDoorLock-Firebase/assets/49444532/17a88f37-d817-4db8-9ae4-a63c2b3380e5
+
+
+https://github.com/11neuty/ESP8266-SmartDoorLock-Firebase/assets/49444532/c8177ae4-07d5-41f9-a782-bfc7dfa584aa
+
 
 
 
