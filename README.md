@@ -1,11 +1,17 @@
 # ESP8266-SmartDoorLock-Firebase
-
 **Judul: ESP8266-SmartDoorLock-Firebase**
-
 # ESP8266 Smart Door Lock with Firebase
+
+![WhatsApp Image 2023-12-11 at 12 51 20_8aec5fe8](https://github.com/11neuty/ESP8266-SmartDoorLock-Firebase/assets/49444532/c989f8ba-6e15-452a-a33c-cb03320624ec)
+![WhatsApp Image 2023-12-11 at 12 51 19_47ab3a90](https://github.com/11neuty/ESP8266-SmartDoorLock-Firebase/assets/49444532/981dd7ec-f423-4630-9b08-246ae8cac517)
+
+
+
+
 
 ## Deskripsi
 Proyek ini adalah implementasi sistem pintu pintar menggunakan mikrokontroler ESP8266, Firebase sebagai database dan server, serta MIT Inventor untuk aplikasi seluler. Sistem ini memungkinkan pengguna untuk membuka atau menutup pintu menggunakan aplikasi seluler yang terhubung dengan perangkat pintar.
+
 
 ## Fitur
 1. **RFID Authentication:** Sistem dapat membaca RFID card dan memberikan keterangan apakah kartu yang dibaca benar atau salah.
