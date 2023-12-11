@@ -34,6 +34,6 @@ Kami mengundang kontribusi dari komunitas. Silakan berkontribusi dengan memberik
 Proyek ini dilisensikan di bawah [MIT License](LICENSE).
 
 ## Pengembang
-- [Nama Pengembang 1](https://github.com/11neuty)
-- [Nama Pengembang 2](https://github.com/Arkan03)
+- [Ryan D. Pratama](https://github.com/11neuty)
+- [Arkan Anis Shafry](https://github.com/Arkan03)
 
