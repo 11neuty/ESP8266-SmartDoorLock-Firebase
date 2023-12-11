@@ -1,5 +1,4 @@
-# ESP8266-SmartDoorLock-Firebase
-**ESP8266-SmartDoorLock-Firebase**
+
 # ESP8266 Smart Door Lock with Firebase
 
 ![WhatsApp Image 2023-12-11 at 12 51 20_8aec5fe8](https://github.com/11neuty/ESP8266-SmartDoorLock-Firebase/assets/49444532/c989f8ba-6e15-452a-a33c-cb03320624ec)
